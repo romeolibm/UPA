@@ -8,4 +8,5 @@ Universal Parser Architecture
 
 ## Related repositories
  * [GUT-Requirements](https://github.com/romeolibm/GUT-Requirements/blob/main/README.md)
+ * [UGA Universal Generator Architecture](https://github.com/romeolibm/UGA)
  * ...
